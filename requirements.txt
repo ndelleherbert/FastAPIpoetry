@@ -1,0 +1,5 @@
+FastAPI
+Pydantic
+sqlalchemy
+uvicorn
+psycopg2
